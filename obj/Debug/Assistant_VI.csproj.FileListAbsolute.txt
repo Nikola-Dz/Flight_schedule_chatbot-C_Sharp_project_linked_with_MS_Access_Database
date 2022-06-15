@@ -1,0 +1,20 @@
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\bin\Debug\Assistant_VI.exe.config
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\bin\Debug\Assistant_VI.exe
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\bin\Debug\Assistant_VI.pdb
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\obj\Debug\Assistant_VI.csprojAssemblyReference.cache
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\obj\Debug\Assistant_VI.Properties.Resources.resources
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\obj\Debug\Assistant_VI.csproj.GenerateResource.cache
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\obj\Debug\Assistant_VI.csproj.CoreCompileInputs.cache
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\obj\Debug\Assistant_VI.exe
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\obj\Debug\Assistant_VI.pdb
+D:\Projekte D\Assistant_VI\bin\Debug\Assistant_VI.exe.config
+D:\Projekte D\Assistant_VI\bin\Debug\Assistant_VI.exe
+D:\Projekte D\Assistant_VI\bin\Debug\Assistant_VI.pdb
+D:\Projekte D\Assistant_VI\obj\Debug\Assistant_VI.csprojAssemblyReference.cache
+D:\Projekte D\Assistant_VI\obj\Debug\Assistant_VI.Assistant.resources
+D:\Projekte D\Assistant_VI\obj\Debug\Assistant_VI.Properties.Resources.resources
+D:\Projekte D\Assistant_VI\obj\Debug\Assistant_VI.csproj.GenerateResource.cache
+D:\Projekte D\Assistant_VI\obj\Debug\Assistant_VI.csproj.CoreCompileInputs.cache
+D:\Projekte D\Assistant_VI\obj\Debug\Assistant_VI.exe
+D:\Projekte D\Assistant_VI\obj\Debug\Assistant_VI.pdb
+D:\Projekte D\VisualStuidoProjects D\Assistant_VI\obj\Debug\Assistant_VI.Form1.resources
